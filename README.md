@@ -25,12 +25,11 @@ The app has two pages, a "My Reads" page and a book search page:
 * Users can change the category of the books by clicking on the green button and pick a category from it.
 
 * To add new books, click on the green + button at the bottom of the page.It will navigate to the "search" page.
-* Users can enter keywords to search books. A collection of the search terms are listed at the end of this document.
+* Users can enter keywords to search books. Up to 20 items will be returned. A collection of the search terms are listed at the end of this document.
 * Once users find the bookds they want to read, they can click on the green button on the book and move it to one of their shelved.
 * Users can go back to the "library" page by clicking on the arrow on the top of the page.
 * Once users are back to the page, they should see the newly added books show up in the correct shelf.
 
-Enter an author's name or subject. Up to 20 items will be returned.
 
 ### Resources and Documentation:
 * [Create-react-app Documentation](https://github.com/facebookincubator/create-react-app)
