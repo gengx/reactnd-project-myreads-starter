@@ -13,7 +13,7 @@ class Search extends Component {
 
   getBooks = (event) => {
 
-    const queryString = event.target.value.trim()
+    const queryString = event.target.value
     this.setState({ queryString: queryString })
 
     if (queryString) {
